@@ -226,7 +226,7 @@ function gc { param($m) git commit -m "$m" }
 
 function gp { git push }
 
-function g { z Github }
+function g { z git }
 
 function gcom {
     git add .
